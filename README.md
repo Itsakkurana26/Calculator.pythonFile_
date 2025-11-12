@@ -1,2 +1,6 @@
 # Calculator.pythonFile_
-🧮 Console-based Calculator (Basic Project) ✅ Features:  Performs addition, subtraction, multiplication, and division.  Loops until the user chooses to exit.  Handles invalid inputs safely.
+🧮 Console-based Calculator (Basic Project) 
+✅ Features: 
+1.Performs addition, subtraction, multiplication, and division.  
+2.Loops until the user chooses to exit.  
+3.Handles invalid inputs safely.
